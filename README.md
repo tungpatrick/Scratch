@@ -12,7 +12,7 @@ UBC MDS 2018
 
 
 
-This line will be edited.
+Patrick has edited this line.
 
 
 ### I am studying Python. Very fun!
